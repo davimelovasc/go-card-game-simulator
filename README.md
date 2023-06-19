@@ -21,7 +21,5 @@ To get started with this project, follow these steps:
 1. Clone the project repository from GitHub: [https://github.com/davimelovasc/go-card-game-simulator](https://github.com/davimelovasc/go-card-game-simulator)
 2. Install Go on your machine if you haven't already: [https://golang.org/doc/install](https://golang.org/doc/install)
 3. Navigate to the project directory using the command line.
-4. Run the project using the `go run` command: `go run main.go`
+4. Run the project using the `go run` command: `go run main.go deck.go`
 5. Follow the instructions displayed in the terminal to interact with the card game simulator.
-
-Feel free to explore the project's code, modify it, and experiment with different features as you progress through the course. This project will provide a solid foundation for understanding Go and implementing similar projects in the future.
