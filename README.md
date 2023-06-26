@@ -1,7 +1,7 @@
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-width="60" />
+# Go Language Study Project - Go Card Game Simulator
 
-# Go Card Game Simulator
+![Go Language](https://img.shields.io/badge/Language-Go-blue)
+
 
 This project is a card game simulator implemented in the Go programming language. It serves as a study project to learn Go and is based on the course "Go: The Complete Developer's Guide" available on Udemy: [Go: The Complete Developer's Guide](https://udemy.com/course/go-the-complete-developers-guide).
 
